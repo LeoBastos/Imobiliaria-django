@@ -9,8 +9,6 @@ Um site onde você pode pesquisar por residências e efetuar contato através do
 - Instale as dependências(requeriments.txt).
 - Rode as migrações.
 
-## Link do Projeto
-http://ojdfoisdjifosd.com
 
 ## Tecnologias
 <div style="display: inline_block">
